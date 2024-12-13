@@ -1,0 +1,8 @@
+[35m2024-12-13T11:17:38.574Z [silly] [LOGGER] logger instance created [39m
+[35m	LOGGING_MODE: silly[39m
+[35m[39m
+[32m2024-12-13T11:17:38.942Z [info] [] Connecting to the database [39m
+[32m	url: mongodb://localhost:27017/tlt[39m
+[32m[39m
+[32m2024-12-13T11:17:38.996Z [info] [] Connected to the database [39m
+[32m[39m
